@@ -52,4 +52,12 @@
     ```}```</br>
 13. Vamos instalar a biblioteca( headless ) para utilizarmos acessibilidade.</br>
     ```npm install @headlessui/react```</br>
-14. 
+
+## 2° Dia Front-end da aplicação</br>
+--> Continuando com o APP!</br>
+1. Vamos aplicar uma cor de fundo diferente no corpo da aplicação atraves do global.css.</br>
+2. Agora vamos criar um novo componete para abrirmos o formulario que vai conter as opções para o usuario.</br>
+3. -> WidgetForm.tsx</br>
+4. Apos a configuração do componente anterior, chegamos a conclusão que vamos precisar criar um novo componente para o nosso botão de fechar.</br>
+5. -> CloseButton.tsx</br>
+6. Continuar de 25:36 minutos de aula do Stage 2 no componente CloseButton.
