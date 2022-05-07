@@ -61,4 +61,4 @@
 4. Apos a configuração do componente anterior, chegamos a conclusão que vamos precisar criar um novo componente para o nosso botão de fechar.</br>
 5. -> CloseButton.tsx</br>
 6. Fizemos algumas modificações no Componente WidgetForm.tsx.</br>
-7. Continuar de 38:36 minutos de aula do Stage 2 no componente CloseButton.
+7. Continuar de 1:05:25 minutos de aula do Stage 2 no componente CloseButton.
