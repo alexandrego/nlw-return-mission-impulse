@@ -69,3 +69,6 @@
 11. Vamos instalar uma biblioteca para configurarmos a captura da tela ao precionarmos o botão de camera.
   ```npm install html2canvas```</br>
 11. Aula 2 Finalizada.
+
+## 3° Dia Back-end da aplicação</br>
+1. Assistindo a aula, continuar apartir de 35:31 min. Na verdade apartir daqui criaremos um novo repositorio pois trabalharemos o Back-end da aplicação.
