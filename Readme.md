@@ -67,8 +67,6 @@
 10. Apos instalada a dependencia vamos chamar a dependencia dentro do arquivo tailwind.config.js, da seguinte maneira:</br>
     ```require('tailwind-scrollbar'),```</br>
 11. Vamos instalar uma biblioteca para configurarmos a captura da tela ao precionarmos o botão de camera.
-  ```npm install html2canvas```</br>
-11. Aula 2 Finalizada.
+  ```npm install html2canvas```</br></br>
 
-## 3° Dia Back-end da aplicação</br>
-1. Assistindo a aula, continuar apartir de 35:31 min. Na verdade apartir daqui criaremos um novo repositorio pois trabalharemos o Back-end da aplicação.
+  ## Aplicação Web Frontend Finalizada 🎉
